@@ -13,7 +13,7 @@ import javax.swing.BoxLayout;
 
 public class NumToWordMain {
 
-	//
+	
 	public static void main(String[] args) {
 		Frame F = new Frame("Convertor");
 		TextField numberField = new TextField(10);
